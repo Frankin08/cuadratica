@@ -1,4 +1,4 @@
-# cuadratica
-Ejemplo de un GitHub pages para el blog
+# Formula cuadratica
 
-Codogo de Java para resolver ecuaciones con la formula cuadratica
+* Codigo de Java para resolver ecuaciones con la formula cuadratica
+* Sin interfaz grafica, por consola
